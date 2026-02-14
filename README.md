@@ -5,7 +5,13 @@ AI-powered retrieval-based chatbot built with Python and Flask, featuring modern
 
 SmartChat-AI is a modern AI-powered retrieval-based chatbot built using Python and Flask.  
 It provides intelligent real-time responses using predefined intent patterns and TF-IDF similarity matching.
+## 🛣 Roadmap
 
+- v1.0: Basic Retrieval Chatbot
+- v1.1: Improved Matching Algorithm
+- v1.2: Database Integration
+- v2.0: Hybrid AI (Retrieval + Generative)
+- v3.0: SaaS-ready chatbot platform
 ---
 ## 🌟 Feature Contribution Ideas
 
