@@ -90,3 +90,12 @@ This chatbot is designed for:
 - Multi-language support
 - Cloud deployment
 
+
+## 👨‍💻 Developed By
+
+Rohit Pawar  
+Aspiring Software Engineer | Python | AI/ML | Flask Developer
+
+---
+
+⭐ If you like this project, consider giving it a star!
