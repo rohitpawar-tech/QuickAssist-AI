@@ -82,6 +82,19 @@ This chatbot is designed for:
 - Commercial AI assistant integration
 
 ---
+## 🐛 Reporting Issues
+
+If you find a bug:
+
+1. Go to Issues tab
+2. Click New Issue
+3. Provide:
+   - Clear description
+   - Steps to reproduce
+   - Expected behavior
+   - Screenshots (if applicable)
+
+---
 ## 📌 Future Enhancements
 
 - Admin dashboard
