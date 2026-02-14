@@ -248,6 +248,22 @@ Future integration can include:
 - REST API endpoints
 - Webhook support
 - Cloud deployment automation
+## 📦 Deployment
+
+You can deploy SmartChat-AI on:
+
+- Render
+- Railway
+- PythonAnywhere
+- AWS EC2
+- DigitalOcean
+
+Production Tips:
+
+- Disable debug mode
+- Use Gunicorn for production server
+- Configure environment variables
+- Enable HTTPS
 
 ## 🎨 UI/UX Philosophy
 
