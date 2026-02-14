@@ -7,6 +7,19 @@ SmartChat-AI is a modern AI-powered retrieval-based chatbot built using Python a
 It provides intelligent real-time responses using predefined intent patterns and TF-IDF similarity matching.
 
 ---
+## 🌟 Feature Contribution Ideas
+
+- Dark / Light mode toggle
+- Database integration
+- Admin analytics dashboard
+- Multi-language support
+- Deployment to AWS / Render
+- Voice-based chatbot
+- GPT integration option
+- Chat history export feature
+- Authentication-based chatbot personalization
+
+---
 
 ## 🚀 Features
 
