@@ -10,6 +10,16 @@ It provides intelligent real-time responses using predefined intent patterns and
 This project is open-source and available under the MIT License.
 
 ---
+## 📊 Performance Optimization
+
+- Optimized TF-IDF vectorization for fast response
+- Lightweight backend logic
+- Minimal frontend rendering delay
+- Efficient DOM updates
+- Smooth CSS-based animations
+
+The system is designed to maintain low latency even with multiple concurrent users.
+
 
 ## 🛣 Roadmap
 
