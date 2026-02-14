@@ -206,6 +206,21 @@ Aspiring Software Engineer | Python | AI/ML | Flask Developer
 - Do not upload unnecessary files
 - Test before submitting PR
 - Write meaningful commit messages
+- ## 🧪 Testing
+
+Manual Testing Includes:
+
+- Intent accuracy validation
+- Edge case handling
+- Unknown query fallback testing
+- UI responsiveness (Desktop & Mobile)
+- Animation smoothness testing
+
+Future Improvements:
+- Unit testing for backend functions
+- Automated API response testing
+- Load testing for scalability
+
 ---
 # 🤝 Contributing to SmartChat-AI
 
