@@ -1,5 +1,9 @@
 # QuickAssist-AI
 AI-powered retrieval-based chatbot built with Python and Flask, featuring modern animated UI and intelligent intent matching for commercial website integration.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-Framework-black)
+![AI](https://img.shields.io/badge/AI-Chatbot-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # 🤖 SmartChat-AI
 
