@@ -71,3 +71,15 @@ http://127.0.0.1:5000
 ```
 
 ---
+## 💼 Use Case
+
+This chatbot is designed for:
+
+- Business websites
+- SaaS platforms
+- Customer support automation
+- FAQ automation systems
+- Commercial AI assistant integration
+
+---
+
