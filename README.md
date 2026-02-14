@@ -90,7 +90,48 @@ This chatbot is designed for:
 - Multi-language support
 - Cloud deployment
 
+## 🛠 How to Contribute
 
+### Step 1: Fork the Repository
+
+Click the **Fork** button at the top right.
+
+### Step 2: Clone Your Fork
+
+```bash
+git clone https://github.com/yourusername/SmartChat-AI.git
+```
+
+### Step 3: Create a New Branch
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+### Step 4: Make Your Changes
+
+- Follow clean code practices
+- Maintain modular structure
+- Add comments where necessary
+- Ensure no breaking changes
+
+### Step 5: Commit Changes
+
+```bash
+git commit -m "Added: feature description"
+```
+
+### Step 6: Push to Branch
+
+```bash
+git push origin feature/your-feature-name
+```
+
+### Step 7: Open Pull Request
+
+Submit a Pull Request explaining your improvements clearly.
+
+---
 ## 👨‍💻 Developed By
 
 Rohit Pawar  
