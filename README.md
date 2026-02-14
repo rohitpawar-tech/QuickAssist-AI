@@ -82,4 +82,11 @@ This chatbot is designed for:
 - Commercial AI assistant integration
 
 ---
+## 📌 Future Enhancements
+
+- Admin dashboard
+- Database-based chat storage
+- AI personality customization
+- Multi-language support
+- Cloud deployment
 
