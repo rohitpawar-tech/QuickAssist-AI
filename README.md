@@ -97,5 +97,11 @@ Rohit Pawar
 Aspiring Software Engineer | Python | AI/ML | Flask Developer
 
 ---
+# 🤝 Contributing to SmartChat-AI
+
+Contributions are welcome! 🎉  
+We encourage developers to improve features, optimize performance, and enhance UI/UX.
+
+---
 
 ⭐ If you like this project, consider giving it a star!
