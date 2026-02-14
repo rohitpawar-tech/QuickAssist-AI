@@ -137,6 +137,14 @@ Submit a Pull Request explaining your improvements clearly.
 Rohit Pawar  
 Aspiring Software Engineer | Python | AI/ML | Flask Developer
 
+## 📌 Contribution Guidelines
+
+- Keep code clean and readable
+- Follow Python PEP8 standards
+- Maintain project structure
+- Do not upload unnecessary files
+- Test before submitting PR
+- Write meaningful commit messages
 ---
 # 🤝 Contributing to SmartChat-AI
 
