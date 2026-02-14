@@ -32,6 +32,19 @@ This project is open-source and available under the MIT License.
 - Authentication-based chatbot personalization
 
 ---
+## 🔐 Security Considerations
+
+- User inputs are sanitized before processing.
+- No direct execution of user-provided data.
+- Backend protected against basic injection attempts.
+- Debug mode should be disabled in production.
+- Sensitive configuration values should be stored in environment variables.
+
+For production deployment:
+- Use HTTPS
+- Enable rate limiting
+- Deploy behind a reverse proxy (e.g., Nginx)
+
 
 ## 🚀 Features
 
