@@ -20,3 +20,26 @@ It provides intelligent real-time responses using predefined intent patterns and
 - Chat history storage (browser-based)
 - Responsive mobile-friendly design
 - Commercial-ready UI
+
+## 🛠 Tech Stack
+
+- Python
+- Flask
+- HTML (Internal CSS & JS)
+- Scikit-learn
+- JSON-based intent training
+
+---
+
+## 📁 Project Structure
+
+```
+SmartChat-AI/
+│
+├── app.py
+├── intents.json
+├── requirements.txt
+│
+└── templates/
+    └── index.html
+```
